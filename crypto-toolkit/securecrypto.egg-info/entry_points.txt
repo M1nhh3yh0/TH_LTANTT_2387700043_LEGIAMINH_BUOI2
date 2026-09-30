@@ -1,0 +1,2 @@
+[console_scripts]
+securecrypto-cli = securecrypto.cli:main
